@@ -1,0 +1,17 @@
+Notebook[{
+Cell[BoxData[{
+ RowBox[{"CreatePalette", "[", 
+  RowBox[{"Dynamic", "@", 
+   RowBox[{"ProgressIndicator", "[", "progress", "]"}]}], "]"}], "\n", 
+ RowBox[{
+  RowBox[{"progress", "=", "0"}], ";"}]}], "Input",
+ CellChangeTimes->{{3.60200389950527*^9, 3.602003899513904*^9}}]
+},
+WindowSize->{740, 548},
+WindowMargins->{{52, Automatic}, {Automatic, 4}},
+PrivateNotebookOptions->{"FileOutlineCache"->False},
+FrontEndVersion->"9.0 for Mac OS X x86 (32-bit, 64-bit Kernel) (January 25, \
+2013)",
+StyleDefinitions->"Default.nb"
+]
+
