@@ -1,0 +1,55 @@
+(* Content-type: application/vnd.wolfram.mathematica *)
+
+(*** Wolfram Notebook File ***)
+(* http://www.wolfram.com/nb *)
+
+(* CreatedBy='Mathematica 9.0' *)
+
+(*CacheID: 234*)
+(* Internal cache information:
+NotebookFileLineBreakTest
+NotebookFileLineBreakTest
+NotebookDataPosition[       157,          7]
+NotebookDataLength[      1235,         45]
+NotebookOptionsPosition[       982,         31]
+NotebookOutlinePosition[      1338,         47]
+CellTagsIndexPosition[      1295,         44]
+WindowFrame->Normal*)
+
+(* Beginning of Notebook Content *)
+Notebook[{
+Cell[BoxData[{
+ RowBox[{
+  RowBox[{"CreatePalette", "[", 
+   RowBox[{"Dynamic", "@", 
+    RowBox[{"ProgressIndicator", "[", "progress", "]"}]}], "]"}], ";"}], "\n", 
+ RowBox[{
+  RowBox[{"progress", "=", "0"}], ";"}]}], "Input",
+ CellChangeTimes->{{3.602000990184016*^9, 3.602000994789619*^9}, {
+   3.6020011238137093`*^9, 3.602001155767766*^9}, {3.6020013025512867`*^9, 
+   3.6020013057772293`*^9}, 3.602002148503599*^9}]
+},
+WindowSize->{740, 548},
+WindowMargins->{{20, Automatic}, {Automatic, 44}},
+FrontEndVersion->"9.0 for Mac OS X x86 (32-bit, 64-bit Kernel) (January 25, \
+2013)",
+StyleDefinitions->"Default.nb"
+]
+(* End of Notebook Content *)
+
+(* Internal cache information *)
+(*CellTagsOutline
+CellTagsIndex->{}
+*)
+(*CellTagsIndex
+CellTagsIndex->{}
+*)
+(*NotebookFileOutline
+Notebook[{
+Cell[557, 20, 421, 9, 156, "Input"]
+}
+]
+*)
+
+(* End of internal cache information *)
+
